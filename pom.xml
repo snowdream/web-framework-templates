@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>com.github.snowdream.web</groupId>
 		<artifactId>parent</artifactId>
-		<version>0.0.1</version>
+		<version>0.0.2-SNAPSHOT</version>
 	</parent>
 	<groupId>com.github.snowdream.web</groupId>
 	<artifactId>templates</artifactId>
