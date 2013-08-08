@@ -1,4 +1,4 @@
-package com.mkyong.common.controller;
+package com.github.snowdream.web.templates.controller;
 
 import java.security.Principal;
 import org.springframework.stereotype.Controller;
